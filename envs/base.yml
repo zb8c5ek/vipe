@@ -1,6 +1,6 @@
 name: vipe
 channels:
-  - nvidia/label/cuda-12.8.0
+  - nvidia/label/cuda-12.2.2
   - conda-forge
   - nodefaults
 dependencies:
