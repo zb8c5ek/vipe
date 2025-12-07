@@ -1,4 +1,4 @@
-name: vipe
+name: slam3r_p310_c126_t270
 channels:
   - nvidia/label/cuda-12.6.1
   - conda-forge
